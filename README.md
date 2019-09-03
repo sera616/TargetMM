@@ -29,7 +29,16 @@ We gather APAAC and PAAC from iLearn (http://ilearn.erc.monash.edu.au/), which i
 If you use feature extracting tools,please cite the following paper:
 Chen Z, Zhao P, Li F, et al. iLearn: an integrated platform and meta-learner for feature engineering, machine-learning analysis and modeling of DNA, RNA and protein sequence data[J]. Briefings in bioinformatics, 2019.
 
+
+## Machine Learning Technology
+In this work, we utilize three classifiers: Random Forest, Support Vector Machine, Gauss Process Classification from scikit-learn, which is a "Simple and efficient tools for data mining and data analysis", "Accessible to everybody, and reusable in various contexts",  "Built on NumPy, SciPy, and matplotlib", and "Open source, commercially usable - BSD license". See more datails from https://scikit-learn.org/stable/index.html
+
+## Contact 
 If you are interested in our work,OR, if you have any suggestiongs and questions about our source code, PLEASE contact with us. 
 E-mail address : gfang@njust.edu.cn
 
+## Cite
 paper: Fang Ge, Yi-heng Zhu, Wen-wen Kan, Xu Chen, Dong-jun Yu. Accurate Prediction of Missense Mutation by Combing Local and Global Sequence Information with Classifier Ensemble. Under review.
+
+
+
