@@ -21,13 +21,13 @@ Dynamically disordered regions appear to be relatively abundant in eukaryotic pr
 See more information from this paper below:
 Jonathan J. Ward, Liam J. McGuffin, Kevin Bryson, Bernard F. Buxton, David T. Jones, The DISOPRED server for the prediction of protein disorder, Bioinformatics, Volume 20, Issue 13, 1 September 2004, Pages 2138–2139, https://doi.org/10.1093/bioinformatics/bth195
 
-### 4. APAAC and PAAC
+### 4. Amphiphilic Pseudo-Amino Acid Composition and Pseudo-Amino Acid Composition (APAAC and PAAC)
 We gather APAAC and PAAC from iLearn (http://ilearn.erc.monash.edu.au/), which is an integrated platform and meta-learner for feature engineering, machine-learning analysis and modeling of DNA, RNA and protein sequence data.
 
 If you use feature extracting tools,please cite the following paper:
 Chen Z, Zhao P, Li F, et al. iLearn: an integrated platform and meta-learner for feature engineering, machine-learning analysis and modeling of DNA, RNA and protein sequence data[J]. Briefings in bioinformatics, 2019.
 
 If you are interested in our work,OR, if you have any suggestiong and questions about our source code, PLEASE contact with us. 
-E-mail address : gfang@bbc.edu.cn
+E-mail address : gfang@njust.edu.cn
 
 paper: Fang Ge, Yi-heng Zhu, Wen-wen Kan, Xu Chen, Dong-jun Yu. Accurate Prediction of Missense Mutation by Combing Local and Global Sequence Information with Classifier Ensemble. Under review.
