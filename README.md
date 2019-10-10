@@ -35,7 +35,7 @@ In this work, we utilize three classifiers: Random Forest, Support Vector Machin
 
 ## Contact 
 If you are interested in our work,OR, if you have any suggestiongs and questions about our source code, PLEASE contact with us. 
-E-mail address : gfang@njust.edu.cn
+E-mail address : gfang0616@njust.edu.cn
 
 ## Cite
 paper: Fang Ge, Yi-heng Zhu, Wen-wen Kan, Xu Chen, Dong-jun Yu. Accurate Prediction of Missense Mutation by Combing Local and Global Sequence Information with Classifier Ensemble. Under review.
